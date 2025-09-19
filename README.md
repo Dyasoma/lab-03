@@ -2,11 +2,8 @@
 
 ## References and Resources
 
-List any resources used here, or simply put `N/A` if not applicable.
+Used ChatGPT to explain the lab
 
 ## Verbal Collaboration
 
-| Student Name | CCID      |
-| ------------ | --------- |
-| `student`    | `student` |
-| `<Add more>` | `<CCID>`  |
+N/A
